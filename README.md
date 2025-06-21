@@ -1,4 +1,12 @@
-## Hi there 👋
+
+Hi! I am Junjie and I like building stuff^^
+
+🍵 ~ T series ~ 🍵
+
+- [TabTap](https://chromewebstore.google.com/detail/tabtap-clean-fast-tab-man/najbgebphhehjaddbokmnnmobkgmofme)
+- [Tickr](https://tickr-countdown.web.app/)
+- [TicTacToe](https://play.google.com/store/apps/details?id=com.neuralplay.tictactoe)
+
 
 <!--
 **junjie-w/junjie-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
